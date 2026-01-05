@@ -1,0 +1,6 @@
+# Ignore system directories
+AppData/
+*.jtx
+*.log
+*.tmp
+*.db
